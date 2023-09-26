@@ -38,7 +38,7 @@ Users should be able to:
 
 - Solution repo on Github: [here](https://github.com/BeanyTheCoder/product-preview-card-component-main)
 - Solution link on Front End Mentor: [here](https://www.frontendmentor.io/solutions/product-preview-card-component-html-and-css-5veFU_MdA2)
-- Live site link: [here](beanythecoder.github.io/product-preview-card-component-main)
+- Live site link: [here](https://beanythecoder.github.io/product-preview-card-component-main/)
 
 ## My process 🏗️
 
